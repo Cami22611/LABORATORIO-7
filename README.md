@@ -150,3 +150,30 @@ En el ámbito de la anestesia intravenosa, el **Propofol** es el agente de elecc
 La transición del modelo **WATO EX-20** al **EX-35** marca una evolución desde un equipo de anestesia esencial hacia una estación de trabajo de alta complejidad. La diferencia técnica más disruptiva se encuentra en el sistema de ventilación: mientras el EX-20 se limita a modos básicos controlados por volumen o presión, el **EX-35** incorpora modos avanzados como la **Ventilación por Soporte de Presión (PSV)** y **SIMV**. Estas funciones son cruciales para la sincronización paciente-ventilador, permitiendo que el equipo detecte el esfuerzo inspiratorio del paciente durante el destete anestésico, reduciendo así el riesgo de trauma pulmonar y mejorando la seguridad clínica.
 
 A nivel de hardware y monitorización, el EX-35 optimiza significativamente la experiencia del usuario con una pantalla táctil de 10.4 pulgadas que permite una respuesta más rápida en entornos críticos en comparación con la interfaz limitada del EX-20. Además, el EX-35 ofrece una capacidad de expansión superior mediante la integración de módulos para el análisis de gases anestésicos (AG) y la medición de $CO_{2}$, junto con la capacidad de visualizar **bucles de espirometría** en tiempo real. Esto último proporciona al anestesiólogo una representación visual directa de la mecánica pulmonar, permitiendo ajustes dinámicos que no son posibles con el monitoreo estándar del modelo de entrada EX-20.
+
+## REFERENCIAS
+
+1. American Society of Anesthesiologists. (2025). *Standards for basic anesthetic monitoring*. [https://www.asahq.org/standards-and-practice-parameters/standards-for-basic-anesthetic-monitoring](https://www.asahq.org/standards-and-practice-parameters/standards-for-basic-anesthetic-monitoring)
+
+2. Food and Drug Administration. (s.f.). *Anesthesia gas machines*. U.S. Food and Drug Administration. [https://www.fda.gov/medical-devices/general-hospital-devices-and-supplies/anesthesia-gas-machines](https://www.fda.gov/medical-devices/general-hospital-devices-and-supplies/anesthesia-gas-machines)
+
+3. Gurudatt, C. L. (2013). The basic anaesthesia machine. *Indian Journal of Anaesthesia, 57*(5), 538–545. [https://pmc.ncbi.nlm.nih.gov/articles/PMC3821260/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3821260/)
+
+4. Mindray Bio-Medical Electronics Co., Ltd. (s.f.). *WATO EX-20 anesthesia machine*. [https://www.mindray.com/en/products/anesthesia/wato-ex-20](https://www.mindray.com/en/products/anesthesia/wato-ex-20)
+
+5. OpenAnesthesia. (2026). *Anesthesia machines: An overview*. International Anesthesia Research Society. [https://www.openanesthesia.org/keywords/anesthesia-machines-an-overview/](https://www.openanesthesia.org/keywords/anesthesia-machines-an-overview/) ([OpenAnesthesia][1])
+
+6. OpenAnesthesia. (2024). *Anesthesia breathing systems*. International Anesthesia Research Society. [https://www.openanesthesia.org/keywords/anesthesia-breathing-systems/](https://www.openanesthesia.org/keywords/anesthesia-breathing-systems/) ([OpenAnesthesia][2])
+
+7. OpenAnesthesia. (2026). *Medical gas systems: Tanks and pipelines*. International Anesthesia Research Society. [https://www.openanesthesia.org/keywords/medical-gas-systems-tanks-and-pipelines/](https://www.openanesthesia.org/keywords/medical-gas-systems-tanks-and-pipelines/) ([OpenAnesthesia][3])
+
+8. OpenAnesthesia. (2024). *Oxygen supply*. International Anesthesia Research Society. [https://www.openanesthesia.org/keywords/oxygen-supply/](https://www.openanesthesia.org/keywords/oxygen-supply/) ([OpenAnesthesia][4])
+
+9. OpenAnesthesia. (2023). *Inhaled anesthetics in clinical use*. International Anesthesia Research Society. [https://www.openanesthesia.org/keywords/inhaled-anesthetics-in-clinical-use/](https://www.openanesthesia.org/keywords/inhaled-anesthetics-in-clinical-use/) ([OpenAnesthesia][5])
+
+10. ScienceDirect. (s.f.). *Anaesthetic machine – an overview*. Elsevier. [https://www.sciencedirect.com/topics/medicine-and-dentistry/anaesthetic-machine](https://www.sciencedirect.com/topics/medicine-and-dentistry/anaesthetic-machine) ([sciencedirect.com][6])
+
+## INTEGRANTES
+
+Isabel Sofia Maldonado Roa y María Camila Martínez Ramírez
+
