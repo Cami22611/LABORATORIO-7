@@ -39,7 +39,8 @@ Las máquinas de anestesia operan principalmente con gases médicos como oxígen
 c. ¿Qué es el sistema de respiración en la máquina de anestesia y cuál es su función? ¿Qué partes de este sistema podrían esterilizarse por medio de autoclave?
 El sistema de respiración de una máquina de anestesia es el conjunto de componentes encargado de suministrar la mezcla de gases anestésicos al paciente, permitir la ventilación (ya sea espontánea o mecánica) y eliminar el dióxido de carbono exhalado. Este sistema incluye elementos como el circuito respiratorio (tubos inspiratorio y espiratorio), válvulas unidireccionales, el absorbedor de CO₂ (generalmente con cal sodada), la bolsa reservorio, el ventilador y los vaporizadores. Su función principal es mantener un adecuado intercambio gaseoso y garantizar la administración segura de anestesia inhalatoria. En cuanto a la esterilización, varias partes del sistema que están en contacto directo con el paciente pueden someterse a autoclave, como los tubos del circuito, la bolsa reservorio y algunos conectores y válvulas, dependiendo del fabricante; sin embargo, componentes electrónicos, sensores, vaporizadores y partes internas del ventilador no son esterilizables por este método. 
 
-<img width="1200" height="1599" alt="17781241715385878750768695853604" src="https://github.com/user-attachments/assets/c30afaa0-de0a-4e02-aa11-f5719454b738" />
+<img width="1200" height="1599" alt="17781245104926287106460710247590" src="https://github.com/user-attachments/assets/b830a1fa-0a66-40a6-9fbc-f4c89dc5f70a" />
+
 
 
 d. ¿Cuántos y cuáles son los submenús del ventilador? ¿En qué consiste cada uno? ¿En cuál de ellos se puede activar la pausa inspiratoria?
