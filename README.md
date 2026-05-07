@@ -151,6 +151,25 @@ La transición del modelo **WATO EX-20** al **EX-35** marca una evolución desde
 
 A nivel de hardware y monitorización, el EX-35 optimiza significativamente la experiencia del usuario con una pantalla táctil de 10.4 pulgadas que permite una respuesta más rápida en entornos críticos en comparación con la interfaz limitada del EX-20. Además, el EX-35 ofrece una capacidad de expansión superior mediante la integración de módulos para el análisis de gases anestésicos (AG) y la medición de $CO_{2}$, junto con la capacidad de visualizar **bucles de espirometría** en tiempo real. Esto último proporciona al anestesiólogo una representación visual directa de la mecánica pulmonar, permitiendo ajustes dinámicos que no son posibles con el monitoreo estándar del modelo de entrada EX-20.
 
+### Pregunta 3: ¿Qué tipo de bombas de infusion se utilizan en la maquina de anestesia?
+
+La Mindray WATO EX-20 es una máquina de anestesia diseñada principalmente para la administración de anestesia inhalatoria y ventilación del paciente durante procedimientos quirúrgicos. Su configuración incluye suministro de O₂, N₂O y aire, posiciones para vaporizadores, salida ACGO, sensor de oxígeno y sistema de ventilación.
+
+# 2. Tipo de administración anestésica del WATO EX-20
+
+Trabaja principalmente con vaporizadores anestésicos, no con bombas de infusión internas. Los vaporizadores compatibles pueden administrar agentes como halotano, enflurano, isoflurano y sevoflurano.Por lo tanto, cuando se utiliza anestesia inhalatoria, el medicamento anestésico se administra mediante vaporizador, no mediante una bomba de infusión.
+
+# 3. Bombas de infusión utilizadas en conjunto
+
+Aunque la máquina no tiene una bomba de infusión integrada para medicamentos intravenosos, durante un procedimiento anestésico pueden usarse bombas externas, según la necesidad clínica:
+
+- Bomba de jeringa externa: Es la más utilizada para administrar fármacos anestésicos intravenosos en volúmenes pequeños y con alta precisión, como propofol, remifentanilo, fentanilo, relajantes musculares o vasopresores.
+- Bomba TIVA/TCI externa:Puede utilizarse cuando se realiza anestesia intravenosa total. Esta bomba permite controlar la infusión de medicamentos anestésicos, especialmente propofol y opioides de acción corta.
+- Bomba volumétrica externa:Se usa principalmente para soluciones intravenosas, líquidos, antibióticos u otros medicamentos que requieren mayor volumen de infusión.
+
+El equipo puede tener AGSS activo, es decir, sistema de evacuación de gases anestésicos. En las especificaciones aparece un “pump rate” de 75–105 L/min en alto flujo y 25–50 L/min en bajo flujo, pero esta bomba corresponde al sistema de eliminación de gases residuales, no a una bomba de infusión de medicamentos. 
+
+
 ## REFERENCIAS
 
 1. American Society of Anesthesiologists. (2025). *Standards for basic anesthetic monitoring*. [https://www.asahq.org/standards-and-practice-parameters/standards-for-basic-anesthetic-monitoring](https://www.asahq.org/standards-and-practice-parameters/standards-for-basic-anesthetic-monitoring)
