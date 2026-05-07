@@ -18,7 +18,7 @@ Comprender el funcionamiento, estructura y principios operativos de una máquina
 
 El manejo de equipos de soporte vital, como la máquina de anestesia, requiere el cumplimiento estricto de protocolos para garantizar la integridad del personal y el correcto funcionamiento del instrumental. Como norma fundamental, está estrictamente prohibido encender o manipular cualquier equipo biomédico sin la supervisión directa del técnico encargado. Esta medida previene daños accidentales en los sistemas de bombeo y tuberías que gestionan las mezclas gaseosas controladas.
 
-Asimismo, es obligatorio el uso responsable de los elementos de protección personal durante toda la estancia en el laboratorio.Esto incluye el uso de bata, pantalón largo y mantener el cabello recogido para minimizar riesgos operativos.En caso de utilizar estaciones de trabajo institucionales para la consulta de manuales o documentación, los estudiantes deben asegurarse de no dejar sesiones iniciadas ni archivos personales guardados, promoviendo una cultura de responsabilidad y cuidado en el entorno de aprendizaje.
+Asimismo, es obligatorio el uso responsable de los elementos de protección personal durante toda la estancia en el laboratorio.Esto incluye el uso de bata, pantalón largo y mantener el cabello recogido para minimizar riesgos operativos. En caso de utilizar estaciones de trabajo institucionales para la consulta de manuales o documentación, los estudiantes deben asegurarse de no dejar sesiones iniciadas ni archivos personales guardados, promoviendo una cultura de responsabilidad y cuidado en el entorno de aprendizaje.
 
 ## PARTE A
 a. ¿Cuántos y cuáles son los tipos de anestesia que comúnmente se aplican durante una cirugía? Explique cada uno.
