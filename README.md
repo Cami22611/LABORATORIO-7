@@ -4,8 +4,6 @@ La máquina de anestesia constituye uno de los equipos biomédicos más importan
 
 <img width="1200" height="1599" alt="17781239725853450239370408970546" src="https://github.com/user-attachments/assets/9caa9f8c-c3c2-4cc0-9c88-9d63d55b73dc" />
 
-
-
 ## OBJETIVOS
 ### General
 
