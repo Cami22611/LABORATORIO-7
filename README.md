@@ -58,7 +58,9 @@ En muchos entornos hospitalarios, el reemplazo puede realizarse diariamente o de
 ###  ¿Cuál es el procedimiento para verificar si hay fuga en el cilindro de alta presión?
 
 El procedimiento para verificar si existe una fuga en el cilindro de alta presión de una máquina de anestesia consiste en realizar una inspección y prueba de presión que permita identificar pérdidas de gas en las conexiones o componentes del sistema. Primero, se debe asegurar que el cilindro esté correctamente instalado y que las conexiones se encuentren ajustadas. Posteriormente, se abre lentamente la válvula del cilindro para permitir el paso del gas hacia el sistema de alta presión y se observa el manómetro correspondiente.
+
 Una vez presurizado el sistema, se cierra nuevamente la válvula del cilindro y se monitorea la lectura del manómetro durante algunos minutos. Si la presión permanece constante, significa que no existen fugas significativas; sin embargo, si la presión disminuye progresivamente, esto indica una posible fuga en el cilindro, las mangueras, las conexiones o las válvulas del sistema.
+
 Según el manual de la máquina de anestesia WATO EX-20, también puede utilizarse una solución jabonosa sobre las conexiones para detectar escapes de gas, observando la formación de burbujas en los puntos de fuga. Esta verificación debe realizarse antes de cada procedimiento quirúrgico, ya que una fuga de gases puede comprometer el funcionamiento de la máquina, disminuir el suministro de oxígeno y representar un riesgo tanto para el paciente como para el personal médico.
 
 ### ¿Influye el contar o no con el sensor de O2 al hacer la prueba sobre el sistema de control de flujo? ¿De qué forma?
@@ -68,3 +70,11 @@ Sí, la presencia del sensor de O₂ influye directamente al realizar la prueba 
 Cuando la máquina cuenta con el sensor de O₂, la prueba del sistema de control de flujo es más segura y precisa, debido a que el equipo puede comparar la concentración programada con la concentración real entregada. Además, el sistema puede generar alarmas automáticas si la concentración de oxígeno cae por debajo de los valores permitidos, ayudando a prevenir situaciones de hipoxia durante la anestesia.
 
 Por el contrario, si la máquina no dispone del sensor de O₂ o este se encuentra defectuoso, no es posible verificar con exactitud la concentración real de oxígeno administrada. En este caso, el operador dependería únicamente de las configuraciones manuales de flujo y de inspecciones externas, aumentando el riesgo de errores en la mezcla gaseosa y disminuyendo la seguridad del paciente. Según el manual de la WATO EX-20 y la literatura de anestesia biomédica, el sensor de O₂ constituye un elemento fundamental dentro de los sistemas de monitoreo y seguridad del equipo, especialmente durante las pruebas funcionales y la operación clínica.
+
+### ¿Para qué se requiere el sistema de presión negativa?
+
+El sistema de presión negativa en una máquina de anestesia se requiere principalmente para evacuar de manera segura los gases anestésicos residuales y evitar que se acumulen en el ambiente quirúrgico, creando una presión inferior a la atmosférica que permite extraer los gases exhalados por el paciente y los excedentes del circuito respiratorio hacia un sistema de eliminación, reduciendo la exposición del personal médico a sustancias anestésicas potencialmente peligrosas.
+
+En la máquina de anestesia WATO EX-20, el sistema de presión negativa forma parte de los mecanismos de seguridad ambiental y clínica, ya que ayuda a mantener condiciones adecuadas dentro del quirófano y evita la contaminación del aire por gases como óxido nitroso o agentes halogenados. Además, contribuye a mejorar la eficiencia del sistema respiratorio, controlando la evacuación de gases sin generar sobrepresiones en el circuito del paciente.
+
+Este sistema es fundamental porque la exposición prolongada a gases anestésicos residuales puede producir efectos adversos en el personal de salud, como alteraciones neurológicas, cefaleas y problemas respiratorios. Por ello, el sistema de presión negativa garantiza tanto la seguridad ocupacional como el correcto funcionamiento del equipo anestésico.
