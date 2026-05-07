@@ -1,6 +1,11 @@
 # LABORATORIO 5: RECONOCIMIENTO DE PARTES Y FUNCIONAMIENTO DE UNA MÁQUINA DE ANESTESIA
 ## INTRODUCCIÓN
 La máquina de anestesia constituye uno de los equipos biomédicos más importantes dentro del entorno quirúrgico, debido a que permite mantener al paciente en un estado controlado de inconsciencia, analgesia y ventilación durante procedimientos médicos y quirúrgicos. Su funcionamiento integra diversos subsistemas encargados del suministro preciso de oxígeno y gases anestésicos, el control de la ventilación mecánica y la supervisión constante de variables fisiológicas críticas, garantizando así la seguridad del paciente durante la intervención. A lo largo del tiempo, la evolución tecnológica de estos equipos ha permitido mejorar significativamente la precisión, confiabilidad y monitoreo de los parámetros anestésicos, reduciendo riesgos asociados a errores en la administración de gases o fallas en el soporte ventilatorio.
+
+<img width="1200" height="1599" alt="17781239725853450239370408970546" src="https://github.com/user-attachments/assets/9caa9f8c-c3c2-4cc0-9c88-9d63d55b73dc" />
+
+
+
 ## OBJETIVOS
 ### General
 
@@ -20,6 +25,7 @@ El manejo de equipos de soporte vital, como la máquina de anestesia, requiere e
 
 Asimismo, es obligatorio el uso responsable de los elementos de protección personal durante toda la estancia en el laboratorio.Esto incluye el uso de bata, pantalón largo y mantener el cabello recogido para minimizar riesgos operativos. En caso de utilizar estaciones de trabajo institucionales para la consulta de manuales o documentación, los estudiantes deben asegurarse de no dejar sesiones iniciadas ni archivos personales guardados, promoviendo una cultura de responsabilidad y cuidado en el entorno de aprendizaje.
 
+
 ## PARTE A
 a. ¿Cuántos y cuáles son los tipos de anestesia que comúnmente se aplican durante una cirugía? Explique cada uno.
 Durante los procedimientos quirúrgicos se emplean principalmente tres tipos de anestesia: general, regional y local. La anestesia general se caracteriza por inducir un estado reversible de inconsciencia, acompañado de analgesia, amnesia y relajación muscular, lo que permite realizar cirugías de gran complejidad; su administración puede ser intravenosa o inhalatoria, y generalmente requiere el control de la vía aérea. Por otro lado, la anestesia regional bloquea la transmisión nerviosa en una zona específica del cuerpo sin afectar el estado de conciencia del paciente; dentro de esta categoría se encuentran la anestesia espinal o raquídea, la epidural y los bloqueos de nervios periféricos, ampliamente utilizados en cirugías de miembros inferiores, obstetricia y procedimientos específicos. Finalmente, la anestesia local actúa sobre una pequeña área del cuerpo, inhibiendo la percepción del dolor sin comprometer la conciencia, y es utilizada en procedimientos menores.
@@ -27,11 +33,20 @@ Durante los procedimientos quirúrgicos se emplean principalmente tres tipos de 
 b. ¿Con cuáles gases trabaja una máquina de anestesia y qué función cumple cada uno? ¿Cuáles de ellos se incorporan a la máquina mediante sistema de alta presión?
 Las máquinas de anestesia operan principalmente con gases médicos como oxígeno (O₂), óxido nitroso (N₂O) y aire médico, cada uno con funciones específicas dentro del proceso anestésico. El oxígeno es esencial para garantizar la adecuada oxigenación del paciente y constituye el gas más crítico en el sistema. El óxido nitroso se utiliza como agente analgésico y como complemento de los anestésicos inhalados, permitiendo reducir la concentración de estos últimos. El aire médico, compuesto aproximadamente por un 21% de oxígeno, se emplea para evitar concentraciones excesivas de oxígeno y mejorar la seguridad del paciente. Adicionalmente, los agentes anestésicos volátiles como el sevoflurano, isoflurano y desflurano se incorporan mediante vaporizadores, no como gases comprimidos directos. En cuanto al sistema de alta presión, este incluye los cilindros y reguladores, y es por donde ingresan principalmente el oxígeno y el óxido nitroso cuando provienen de tanques.
 
+<img width="1200" height="1599" alt="17781240838188844374854099006837" src="https://github.com/user-attachments/assets/ce0cf9a5-493e-4487-9baa-e7089b6a7bc7" />
+
+
 c. ¿Qué es el sistema de respiración en la máquina de anestesia y cuál es su función? ¿Qué partes de este sistema podrían esterilizarse por medio de autoclave?
 El sistema de respiración de una máquina de anestesia es el conjunto de componentes encargado de suministrar la mezcla de gases anestésicos al paciente, permitir la ventilación (ya sea espontánea o mecánica) y eliminar el dióxido de carbono exhalado. Este sistema incluye elementos como el circuito respiratorio (tubos inspiratorio y espiratorio), válvulas unidireccionales, el absorbedor de CO₂ (generalmente con cal sodada), la bolsa reservorio, el ventilador y los vaporizadores. Su función principal es mantener un adecuado intercambio gaseoso y garantizar la administración segura de anestesia inhalatoria. En cuanto a la esterilización, varias partes del sistema que están en contacto directo con el paciente pueden someterse a autoclave, como los tubos del circuito, la bolsa reservorio y algunos conectores y válvulas, dependiendo del fabricante; sin embargo, componentes electrónicos, sensores, vaporizadores y partes internas del ventilador no son esterilizables por este método. 
 
+<img width="1200" height="1599" alt="17781241715385878750768695853604" src="https://github.com/user-attachments/assets/c30afaa0-de0a-4e02-aa11-f5719454b738" />
+
+
 d. ¿Cuántos y cuáles son los submenús del ventilador? ¿En qué consiste cada uno? ¿En cuál de ellos se puede activar la pausa inspiratoria?
 Los ventiladores integrados en máquinas de anestesia modernas, como el WATO EX-20, disponen de diversos modos de ventilación organizados en submenús que permiten adaptar la asistencia respiratoria a las necesidades del paciente. Entre los principales se encuentran el modo controlado por volumen (VCV), en el cual se establece un volumen tidal fijo; el modo controlado por presión (PCV), donde se regula la presión inspiratoria y el volumen varía; el modo SIMV (ventilación mandatoria intermitente sincronizada), que combina respiraciones espontáneas con asistidas; y el modo de soporte de presión (PSV), diseñado para apoyar la respiración espontánea del paciente. Además, existe el modo manual o espontáneo, utilizado con bolsa reservorio. La pausa inspiratoria es una función que permite mantener momentáneamente el flujo al final de la inspiración para medir la presión plateau y mejorar la distribución del gas en los pulmones, y generalmente puede activarse en modos controlados como VCV y PCV.
+
+<img width="1599" height="1200" alt="17781242159989218568570888224139" src="https://github.com/user-attachments/assets/cf18e369-17e8-48e5-b9c5-81923437aef8" />
+
 
 ## PARTE B:
 
@@ -39,11 +54,23 @@ Los ventiladores integrados en máquinas de anestesia modernas, como el WATO EX-
 
 a. Vaporizador: El vaporizador es uno de los componentes más importantes de la máquina de anestesia, ya que se encarga de convertir el anestésico líquido en vapor y suministrarlo en concentraciones precisas al circuito respiratorio del paciente. En la máquina WATO EX-20, este dispositivo permite controlar la cantidad de agente anestésico administrado, garantizando estabilidad durante el procedimiento quirúrgico y evitando riesgos derivados de una dosificación incorrecta. Su funcionamiento se basa en el principio de vaporización controlada, donde el flujo de gases frescos atraviesa una cámara que contiene el anestésico líquido, produciendo una mezcla homogénea y segura. Según el manual de operación de la WATO EX-20 y literatura de anestesiología biomédica, el vaporizador está diseñado para compensar cambios de temperatura y mantener constante la concentración anestésica entregada al paciente.
 
+<img width="1200" height="1599" alt="17781242738235635453436247428107" src="https://github.com/user-attachments/assets/9c7ff2ba-b4f3-436e-b127-191a7e4b802b" />
+
+
 b. Válvula APL: La válvula APL o válvula limitadora de presión ajustable tiene la función de controlar la presión dentro del circuito respiratorio cuando se utiliza ventilación manual. Este componente permite liberar el exceso de gases anestésicos y evitar incrementos peligrosos de presión que puedan ocasionar lesiones pulmonares como barotrauma. En la WATO EX-20, la válvula APL es fundamental para regular la presión del sistema respiratorio durante procedimientos de ventilación manual o espontánea, también contribuye al control del flujo de gases hacia el sistema de evacuación, garantizando seguridad tanto para el paciente como para el personal médico expuesto a gases anestésicos. 
+
+<img width="1200" height="1599" alt="1778124317557683980278817940803" src="https://github.com/user-attachments/assets/67716434-57bb-4db2-a8bd-0d7ef421d4fc" />
+
 
 c. Recipiente absorbente de CO₂: El recipiente absorbente de CO₂ contiene un material químico absorbente, generalmente cal sodada, cuya función es eliminar el dióxido de carbono exhalado por el paciente dentro del circuito respiratorio. Este sistema permite reutilizar parte de los gases anestésicos y disminuir el desperdicio de oxígeno y anestésicos inhalados, ayudando a mantener una ventilación segura, evitando que el paciente inhale nuevamente dióxido de carbono acumulado, lo cual podría producir hipercapnia y alteraciones respiratorias severas. El material absorbente cambia progresivamente sus propiedades químicas a medida que se satura, por lo que requiere monitoreo y reemplazo periódico para asegurar un funcionamiento eficiente.
 
+<img width="1200" height="1599" alt="17781243677931030977610578175086" src="https://github.com/user-attachments/assets/fb6b8795-15c0-4da9-8fd6-4bd43b16a126" />
+
+
 d. Fuelle: El fuelle forma parte del sistema de ventilación mecánica de la máquina de anestesia y su función principal es impulsar el volumen de gases respiratorios hacia el paciente durante cada ciclo ventilatorio. Su movimiento de expansión y compresión permite simular el proceso natural de respiración, garantizando una ventilación adecuada durante la anestesia general. También actúa como un indicador visual del estado del sistema respiratorio, ya que alteraciones en su movimiento pueden evidenciar fugas, desconexiones o problemas ventilatorios, su correcto funcionamiento es esencial para asegurar el suministro continuo y seguro de oxígeno y agentes anestésicos al paciente durante el procedimiento quirúrgico.
+
+<img width="1200" height="1599" alt="1778124399281420583884858988878" src="https://github.com/user-attachments/assets/775f8492-e31b-4bcd-ac31-df4f20adf447" />
+
 
 ### Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse?
 
