@@ -155,11 +155,11 @@ A nivel de hardware y monitorización, el EX-35 optimiza significativamente la e
 
 La Mindray WATO EX-20 es una máquina de anestesia diseñada principalmente para la administración de anestesia inhalatoria y ventilación del paciente durante procedimientos quirúrgicos. Su configuración incluye suministro de O₂, N₂O y aire, posiciones para vaporizadores, salida ACGO, sensor de oxígeno y sistema de ventilación.
 
-# 2. Tipo de administración anestésica del WATO EX-20
+#### 2. Tipo de administración anestésica del WATO EX-20
 
 Trabaja principalmente con vaporizadores anestésicos, no con bombas de infusión internas. Los vaporizadores compatibles pueden administrar agentes como halotano, enflurano, isoflurano y sevoflurano.Por lo tanto, cuando se utiliza anestesia inhalatoria, el medicamento anestésico se administra mediante vaporizador, no mediante una bomba de infusión.
 
-# 3. Bombas de infusión utilizadas en conjunto
+#### 3. Bombas de infusión utilizadas en conjunto
 
 Aunque la máquina no tiene una bomba de infusión integrada para medicamentos intravenosos, durante un procedimiento anestésico pueden usarse bombas externas, según la necesidad clínica:
 
