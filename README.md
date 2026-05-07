@@ -77,4 +77,51 @@ El sistema de presión negativa en una máquina de anestesia se requiere princip
 
 En la máquina de anestesia WATO EX-20, el sistema de presión negativa forma parte de los mecanismos de seguridad ambiental y clínica, ya que ayuda a mantener condiciones adecuadas dentro del quirófano y evita la contaminación del aire por gases como óxido nitroso o agentes halogenados. Además, contribuye a mejorar la eficiencia del sistema respiratorio, controlando la evacuación de gases sin generar sobrepresiones en el circuito del paciente.
 
-Este sistema es fundamental porque la exposición prolongada a gases anestésicos residuales puede producir efectos adversos en el personal de salud, como alteraciones neurológicas, cefaleas y problemas respiratorios. Por ello, el sistema de presión negativa garantiza tanto la seguridad ocupacional como el correcto funcionamiento del equipo anestésico.
+Este sistema es fundamental porque la exposición prolongada a gases anestésicos residuales puede producir efectos adversos en el personal de salud, como alteraciones neurológicas, cefaleas y problemas respiratorios. Por ello, el sistema de presión negativa garantiza tanto la seguridad ocupacional como el correcto funcionamiento del equipo anestésico. 
+
+## ANÁLISIS
+
+### Análisis 1. Fallas presentes en los subsistemas de la máquina de anestesia y sus posibles causas
+
+La máquina de anestesia es un equipo biomédico complejo conformado por diversos subsistemas interdependientes encargados de suministrar gases medicinales, administrar agentes anestésicos, controlar la ventilación y monitorear continuamente las condiciones del paciente. Debido a la complejidad de sus funciones dentro del entorno quirúrgico, cualquier falla en alguno de sus subsistemas puede comprometer seriamente la seguridad del paciente y del personal médico. Por esta razón, el manual de operación de la máquina de anestesia WATO EX-20 establece múltiples mecanismos de supervisión, alarmas y protocolos de verificación orientados a detectar anomalías de funcionamiento de manera temprana. 
+
+Uno de los subsistemas más susceptibles a fallas es el sistema de suministro de gases, encargado de proporcionar oxígeno, aire comprimido y óxido nitroso en condiciones adecuadas de presión y flujo. Entre las fallas más frecuentes se encuentran las fugas en cilindros o conexiones, disminución de presión en la red hospitalaria, obstrucción de mangueras y errores en el control de flujo. Estas anomalías pueden originarse por desgaste mecánico de las conexiones, instalación incorrecta de cilindros, deterioro de empaques o ausencia de mantenimiento preventivo. Una falla en este subsistema puede ocasionar mezclas inadecuadas de gases, hipoxia o interrupción total del suministro respiratorio al paciente. 
+
+Otro subsistema crítico es el sistema de ventilación mecánica, cuya función consiste en garantizar el intercambio gaseoso adecuado durante el procedimiento anestésico. En este sistema pueden presentarse fallas asociadas al fuelle, sensores de presión, válvulas respiratorias y circuitos ventilatorios. Entre las causas más comunes se encuentran fugas en el circuito respiratorio, desconexiones accidentales, obstrucciones por humedad o secreciones, daño en sensores y fallas electrónicas del ventilador, estas alteraciones pueden provocar ventilación insuficiente, aumento de presión en las vías respiratorias o incapacidad para mantener parámetros ventilatorios seguros. 
+
+El subsistema de vaporización también representa un punto crítico dentro de la máquina de anestesia. Los vaporizadores pueden presentar errores en la concentración administrada, fugas de anestésico, contaminación cruzada entre agentes o mal funcionamiento de los mecanismos de compensación térmica. Generalmente, estas fallas se producen por llenado incorrecto del agente anestésico, desgaste de componentes internos, manipulación inadecuada o ausencia de calibración periódica; una alteración en este subsistema puede generar sobredosis o administración insuficiente de anestesia, afectando directamente la estabilidad hemodinámica y el nivel anestésico del paciente. 
+
+Asimismo, el sistema de absorción de CO₂ puede presentar problemas relacionados con saturación de la cal sodada, instalación incorrecta del recipiente absorbente o presencia de fugas en el canister. Estas fallas ocasionan reinhalación de dióxido de carbono y elevación de los niveles de CO₂ inspirados, pudiendo producir hipercapnia, alteraciones respiratorias y complicaciones metabólicas.
+
+Por otra parte, el subsistema de monitoreo y alarmas constituye un elemento esencial para la seguridad clínica. Las fallas más comunes en este sistema incluyen errores en sensores de oxígeno, fallas de visualización, alarmas deshabilitadas o problemas de alimentación eléctrica. Estas anomalías pueden derivarse de baterías descargadas, daño electrónico, conexiones defectuosas o falta de calibración. La consecuencia principal es la pérdida de capacidad para detectar eventos críticos en tiempo real, aumentando considerablemente el riesgo durante la anestesia. 
+
+Finalmente, el sistema eléctrico y de respaldo energético también puede presentar fallas importantes, especialmente relacionadas con interrupciones del suministro eléctrico, deterioro de baterías internas o fallas en los circuitos de alimentación, cuando la máquina opera únicamente con batería, el tiempo de funcionamiento es limitado, por lo que una pérdida total de energía puede comprometer el funcionamiento del ventilador y de los sistemas de monitoreo. Por esta razón, el manual recomienda realizar pruebas periódicas del estado de la batería y verificar continuamente las conexiones eléctricas del equipo. 
+
+### Análisis 2. Organización de los subsistemas según el número de fallas asociadas
+
+De acuerdo con la información presentada en el manual de operación de la máquina de anestesia WATO EX-20 y considerando la cantidad de alarmas, advertencias y procedimientos de verificación asociados a cada componente, es posible establecer un orden de los subsistemas con mayor incidencia potencial de fallas.
+
+#### 1. Sistema de ventilación mecánica
+
+Es el subsistema que presenta la mayor cantidad de fallas potenciales debido a la gran cantidad de componentes involucrados, como válvulas, sensores, fuelles, circuitos respiratorios y controles electrónicos. Las fallas incluyen fugas, sobrepresión, desconexiones, errores de sensores y fallas del ventilador. Debido a su relación directa con la respiración del paciente, este sistema requiere monitoreo constante y pruebas funcionales frecuentes. 
+
+#### 2. Sistema de suministro y control de gases
+
+Ocupa el segundo lugar en incidencia de fallas por la presencia de múltiples conexiones, reguladores, cilindros y líneas de presión. Las fugas, pérdidas de presión y mezclas incorrectas de gases representan riesgos críticos, especialmente en el suministro de oxígeno. Este subsistema depende tanto de la infraestructura hospitalaria como del correcto estado mecánico de la máquina. 
+
+#### 3. Sistema de monitoreo y alarmas
+
+Presenta numerosas fallas asociadas a sensores, calibración, alarmas y alimentación eléctrica. Aunque no administra directamente la anestesia o ventilación, cualquier error en este sistema disminuye la capacidad de detección temprana de eventos peligrosos. La confiabilidad de este subsistema es fundamental para la seguridad clínica durante el procedimiento anestésico. 
+
+#### 4. Sistema de vaporización
+
+El vaporizador puede presentar fallas relacionadas con fugas, errores de concentración anestésica y problemas de calibración. Aunque el número de fallas potenciales es menor comparado con otros subsistemas, las consecuencias clínicas pueden ser graves debido a la administración incorrecta de agentes anestésicos. 
+
+#### 5. Sistema absorbente de CO₂
+
+Este subsistema presenta menor cantidad de fallas en comparación con los anteriores; sin embargo, continúa siendo crítico para evitar la reinhalación de dióxido de carbono. La mayoría de problemas se relacionan con saturación del absorbente, fugas o instalación incorrecta del recipiente. 
+
+#### 6. Sistema eléctrico y batería de respaldo
+
+Aunque las fallas eléctricas no son las más frecuentes, pueden generar consecuencias importantes si ocurren durante un procedimiento quirúrgico. Generalmente se relacionan con pérdida de energía externa, deterioro de la batería o fallas de alimentación interna. Por ello, el manual recomienda verificar periódicamente el estado energético del equipo y asegurar una conexión eléctrica estable antes de iniciar cualquier procedimiento. 
+
