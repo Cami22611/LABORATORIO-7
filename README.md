@@ -72,6 +72,42 @@ d. Fuelle: El fuelle forma parte del sistema de ventilación mecánica de la má
 
 <img width="1200" height="1599" alt="1778124399281420583884858988878" src="https://github.com/user-attachments/assets/775f8492-e31b-4bcd-ac31-df4f20adf447" />
 
+e. Sistema de suministro de gases: Es el encargado de recibir los gases medicinales como oxígeno, aire y óxido nitroso. Estos gases pueden venir de la red central del hospital o de cilindros. Su función es proporcionar el gas necesario para la ventilación y la anestesia del paciente.
+
+
+<img width="1200" height="1599" alt="17781247318203092505419946453127" src="https://github.com/user-attachments/assets/2b687818-a7ad-4671-9dc2-3b367ad53055" />
+
+f. Flujómetros o controles de flujo: Permiten regular la cantidad de gas que pasa hacia el paciente. Ayudan a controlar el flujo de oxígeno, aire u óxido nitroso según la necesidad del procedimiento.
+
+
+<img width="1200" height="1599" alt="1778124860601218289326238457643" src="https://github.com/user-attachments/assets/c44e6a2c-c333-45f8-a3fe-5a359d868499" />
+
+g. Circuito respiratorio: Conduce los gases anestésicos desde la máquina hasta el paciente y permite el retorno del gas espirado. Incluye tubos, válvulas, conexión al paciente y otros accesorios respiratorios.
+
+<img width="1200" height="1599" alt="17781249247171714391074189871291" src="https://github.com/user-attachments/assets/a2df59d9-53a9-4928-92f4-c06813fe2f09" />
+
+h. Ventilador mecánico: Ayuda o sustituye la respiración del paciente durante la anestesia. Permite controlar la frecuencia respiratoria, el volumen de aire y la presión administrada.
+
+<img width="1200" height="1599" alt="17781250680172474509068219622228" src="https://github.com/user-attachments/assets/83c602f3-03e0-4de9-b5da-9860873968ab" />
+
+i. Bolsa reservorio: Se utiliza para ventilar manualmente al paciente. Permite al anestesiólogo controlar la respiración de forma directa cuando sea necesario.
+
+<img width="1200" height="1599" alt="17781251154745369519767987217865" src="https://github.com/user-attachments/assets/af89eb40-8806-40e4-9e9e-d8eb7daf4d84" />
+
+j. Monitor o pantalla de control: Muestra información importante sobre el funcionamiento de la máquina y la ventilación del paciente. Permite observar parámetros, configurar ajustes y detectar alarmas.
+
+<img width="1200" height="1599" alt="17781251839706928144229881309936" src="https://github.com/user-attachments/assets/b5ec1d9b-39ad-4e80-9b98-3af35ecffe69" />
+
+k. Alarmas de seguridad: Alertan al personal médico cuando ocurre una falla o situación de riesgo, como baja presión de oxígeno, desconexión, fuga o presión elevada en la vía aérea.
+
+<img width="1200" height="1599" alt="17781252368518360639881216540400" src="https://github.com/user-attachments/assets/f096c963-2484-425b-89ed-9ba639bcf876" />
+
+l. Sistema eléctrico y batería: Proporciona energía a la máquina, al ventilador, sensores, pantalla y alarmas. La batería de respaldo permite que el equipo siga funcionando temporalmente si falla la corriente eléctrica.
+
+
+
+
+
 
 ### Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse?
 
