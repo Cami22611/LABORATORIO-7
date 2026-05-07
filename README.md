@@ -14,6 +14,12 @@ Comprender el funcionamiento, estructura y principios operativos de una máquina
 * Comprender la importancia del mantenimiento preventivo y de las pruebas de funcionamiento realizadas a las máquinas de anestesia para asegurar su correcto desempeño clínico.
 * Relacionar los conceptos teóricos de instrumentación biomédica con la aplicación práctica de los equipos utilizados en ambientes hospitalarios y quirúrgicos. 
 
+## SEGURIDAD EN EL LABORATORIO
+
+El manejo de equipos de soporte vital, como la máquina de anestesia, requiere el cumplimiento estricto de protocolos para garantizar la integridad del personal y el correcto funcionamiento del instrumental. Como norma fundamental, está estrictamente prohibido encender o manipular cualquier equipo biomédico sin la supervisión directa del técnico encargado. Esta medida previene daños accidentales en los sistemas de bombeo y tuberías que gestionan las mezclas gaseosas controladas.
+
+Asimismo, es obligatorio el uso responsable de los elementos de protección personal durante toda la estancia en el laboratorio.Esto incluye el uso de bata, pantalón largo y mantener el cabello recogido para minimizar riesgos operativos.En caso de utilizar estaciones de trabajo institucionales para la consulta de manuales o documentación, los estudiantes deben asegurarse de no dejar sesiones iniciadas ni archivos personales guardados, promoviendo una cultura de responsabilidad y cuidado en el entorno de aprendizaje.
+
 ## PARTE A
 a. ¿Cuántos y cuáles son los tipos de anestesia que comúnmente se aplican durante una cirugía? Explique cada uno.
 Durante los procedimientos quirúrgicos se emplean principalmente tres tipos de anestesia: general, regional y local. La anestesia general se caracteriza por inducir un estado reversible de inconsciencia, acompañado de analgesia, amnesia y relajación muscular, lo que permite realizar cirugías de gran complejidad; su administración puede ser intravenosa o inhalatoria, y generalmente requiere el control de la vía aérea. Por otro lado, la anestesia regional bloquea la transmisión nerviosa en una zona específica del cuerpo sin afectar el estado de conciencia del paciente; dentro de esta categoría se encuentran la anestesia espinal o raquídea, la epidural y los bloqueos de nervios periféricos, ampliamente utilizados en cirugías de miembros inferiores, obstetricia y procedimientos específicos. Finalmente, la anestesia local actúa sobre una pequeña área del cuerpo, inhibiendo la percepción del dolor sin comprometer la conciencia, y es utilizada en procedimientos menores.
