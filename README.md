@@ -3,8 +3,11 @@
 La máquina de anestesia constituye uno de los equipos biomédicos más importantes dentro del entorno quirúrgico, debido a que permite mantener al paciente en un estado controlado de inconsciencia, analgesia y ventilación durante procedimientos médicos y quirúrgicos. Su funcionamiento integra diversos subsistemas encargados del suministro preciso de oxígeno y gases anestésicos, el control de la ventilación mecánica y la supervisión constante de variables fisiológicas críticas, garantizando así la seguridad del paciente durante la intervención. A lo largo del tiempo, la evolución tecnológica de estos equipos ha permitido mejorar significativamente la precisión, confiabilidad y monitoreo de los parámetros anestésicos, reduciendo riesgos asociados a errores en la administración de gases o fallas en el soporte ventilatorio (Gurudatt, 2013; OpenAnesthesia, 2026).
 
 <img width="1200" height="1599" alt="17781239725853450239370408970546" src="https://github.com/user-attachments/assets/9caa9f8c-c3c2-4cc0-9c88-9d63d55b73dc" />
-**Figura 1.** Vaporizador de la máquina de anestesia WATO EX-20. 
-**Fuente:** Elaboración propia.
+
+<p align="center">
+  <sub><strong>Figura 1.</strong> <em>Lista de verificación preoperatoria de la máquina de anestesia WATO EX-20.</em></sub><br>
+  <sub><strong>Fuente:</strong> Elaboración propia.</sub>
+</p>
 
 ## OBJETIVOS
 ### General
@@ -34,6 +37,10 @@ b. ¿Con cuáles gases trabaja una máquina de anestesia y qué función cumple 
 Las máquinas de anestesia operan principalmente con gases médicos como oxígeno (O₂), óxido nitroso (N₂O) y aire médico, cada uno con funciones específicas dentro del proceso anestésico. El oxígeno es esencial para garantizar la adecuada oxigenación del paciente y constituye el gas más crítico en el sistema. El óxido nitroso se utiliza como agente analgésico y como complemento de los anestésicos inhalados, permitiendo reducir la concentración de estos últimos. El aire médico, compuesto aproximadamente por un 21% de oxígeno, se emplea para evitar concentraciones excesivas de oxígeno y mejorar la seguridad del paciente. Adicionalmente, los agentes anestésicos volátiles como el sevoflurano, isoflurano y desflurano se incorporan mediante vaporizadores, no como gases comprimidos directos. En cuanto al sistema de alta presión, este incluye los cilindros y reguladores, y es por donde ingresan principalmente el oxígeno y el óxido nitroso cuando provienen de tanques.
 
 <img width="1200" height="1599" alt="17781240838188844374854099006837" src="https://github.com/user-attachments/assets/ce0cf9a5-493e-4487-9baa-e7089b6a7bc7" />
+<p align="center">
+  <sub><strong>Figura 2.</strong> <em>Conexiones de entrada de gases medicinales (O₂, N₂O y aire) de la máquina de anestesia WATO EX-20. </em></sub><br>
+  <sub><strong>Fuente:</strong> Elaboración propia.</sub>
+</p>
 
 
 c. ¿Qué es el sistema de respiración en la máquina de anestesia y cuál es su función? ¿Qué partes de este sistema podrían esterilizarse por medio de autoclave?
@@ -41,12 +48,19 @@ El sistema de respiración de una máquina de anestesia es el conjunto de compon
 
 <img width="1200" height="1599" alt="17781245104926287106460710247590" src="https://github.com/user-attachments/assets/b830a1fa-0a66-40a6-9fbc-f4c89dc5f70a" />
 
-
+<p align="center">
+  <sub><strong>Figura 2.</strong> <em> Sistemas respiratorio de la máquina de anestesia.</em></sub><br>
+  <sub><strong>Fuente:</strong> Elaboración propia.</sub>
+</p>
 
 d. ¿Cuántos y cuáles son los submenús del ventilador? ¿En qué consiste cada uno? ¿En cuál de ellos se puede activar la pausa inspiratoria?
 Los ventiladores integrados en máquinas de anestesia modernas, como el WATO EX-20, disponen de diversos modos de ventilación organizados en submenús que permiten adaptar la asistencia respiratoria a las necesidades del paciente. Entre los principales se encuentran el modo controlado por volumen (VCV), en el cual se establece un volumen tidal fijo; el modo controlado por presión (PCV), donde se regula la presión inspiratoria y el volumen varía; el modo SIMV (ventilación mandatoria intermitente sincronizada), que combina respiraciones espontáneas con asistidas; y el modo de soporte de presión (PSV), diseñado para apoyar la respiración espontánea del paciente. Además, existe el modo manual o espontáneo, utilizado con bolsa reservorio. La pausa inspiratoria es una función que permite mantener momentáneamente el flujo al final de la inspiración para medir la presión plateau y mejorar la distribución del gas en los pulmones, y generalmente puede activarse en modos controlados como VCV y PCV.
 
 <img width="1599" height="1200" alt="17781242159989218568570888224139" src="https://github.com/user-attachments/assets/cf18e369-17e8-48e5-b9c5-81923437aef8" />
+<p align="center">
+  <sub><strong>Figura 2.</strong> <em>Configuración edl ventilador de la máquina de anestesia.</em></sub><br>
+  <sub><strong>Fuente:</strong> Elaboración propia.</sub>
+</p>
 
 
 ## PARTE B:
