@@ -167,7 +167,7 @@ k. Alarmas de seguridad: Alertan al personal médico cuando ocurre una falla o s
 
 <img width="1200" height="1599" alt="17781252368518360639881216540400" src="https://github.com/user-attachments/assets/f096c963-2484-425b-89ed-9ba639bcf876" />
 <p align="center">
-  <sub><strong>Figura 2.</strong> <em>Sistema de alarmas de seguridad.</em></sub><br>
+  <sub><strong>Figura 15.</strong> <em>Sistema de alarmas de seguridad.</em></sub><br>
   <sub><strong>Fuente:</strong> Elaboración propia.</sub>
 </p>
 
