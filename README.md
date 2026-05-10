@@ -1,8 +1,10 @@
 # LABORATORIO 5: RECONOCIMIENTO DE PARTES Y FUNCIONAMIENTO DE UNA MÁQUINA DE ANESTESIA
 ## INTRODUCCIÓN
-La máquina de anestesia constituye uno de los equipos biomédicos más importantes dentro del entorno quirúrgico, debido a que permite mantener al paciente en un estado controlado de inconsciencia, analgesia y ventilación durante procedimientos médicos y quirúrgicos. Su funcionamiento integra diversos subsistemas encargados del suministro preciso de oxígeno y gases anestésicos, el control de la ventilación mecánica y la supervisión constante de variables fisiológicas críticas, garantizando así la seguridad del paciente durante la intervención. A lo largo del tiempo, la evolución tecnológica de estos equipos ha permitido mejorar significativamente la precisión, confiabilidad y monitoreo de los parámetros anestésicos, reduciendo riesgos asociados a errores en la administración de gases o fallas en el soporte ventilatorio.
+La máquina de anestesia constituye uno de los equipos biomédicos más importantes dentro del entorno quirúrgico, debido a que permite mantener al paciente en un estado controlado de inconsciencia, analgesia y ventilación durante procedimientos médicos y quirúrgicos. Su funcionamiento integra diversos subsistemas encargados del suministro preciso de oxígeno y gases anestésicos, el control de la ventilación mecánica y la supervisión constante de variables fisiológicas críticas, garantizando así la seguridad del paciente durante la intervención. A lo largo del tiempo, la evolución tecnológica de estos equipos ha permitido mejorar significativamente la precisión, confiabilidad y monitoreo de los parámetros anestésicos, reduciendo riesgos asociados a errores en la administración de gases o fallas en el soporte ventilatorio (Gurudatt, 2013; OpenAnesthesia, 2026).
 
 <img width="1200" height="1599" alt="17781239725853450239370408970546" src="https://github.com/user-attachments/assets/9caa9f8c-c3c2-4cc0-9c88-9d63d55b73dc" />
+**Figura 1.** Vaporizador de la máquina de anestesia WATO EX-20. 
+**Fuente:** Elaboración propia.
 
 ## OBJETIVOS
 ### General
